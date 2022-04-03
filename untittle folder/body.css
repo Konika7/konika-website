@@ -1,0 +1,141 @@
+.image-container{
+    width: 200px;
+    height:200px;
+    text-align: center;
+}
+img{
+    display:inline-block;
+    vertical-align: middle;
+}
+.text{
+    width: 1440px;
+    height: 3000px;
+    background: url(img.jpg);
+    margin:center;
+    float: right;
+    margin-right:10px;
+    border:solid black 1px;
+    padding: 1.5px;
+   
+
+}
+.maam-img{
+    width: 45%;
+    float: right;
+    margin-left: 30px;
+
+}
+.maam{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+   
+
+
+}
+h2{
+    font-family: Mirza;
+color: #FFFFFF;
+
+}
+h3{
+font-family: Mirza;
+color: #FFFFFF;
+
+}         
+p{
+    line-height: 2;
+
+}
+.faculty{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    
+}
+.mam-img{
+    width: 45%;
+    float: left;
+    margin-right: 30px;
+}
+.di-img{
+    width: 45%;
+    float: right;
+    margin-right: 35px;
+}
+.PRESIDENT{
+    width: 45%;
+    margin: 100px auto 100px auto;
+    text-align: center;     
+}
+
+
+p{
+    line-height: 0;
+
+}
+h2{
+    font-family: Mirza;
+color: #FFFFFF;
+
+}
+.members{
+    width: 40%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.mem1-img{
+    width: 45%;
+    float: left;
+    margin-right: 30px;
+}
+.members1{
+    width: 45%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.mem2-img{
+    width: 45%;
+    float: right;
+    margin-left: 30px;
+}
+.members2{
+    width: 40%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.mem3-img{
+    width: 45%;
+    float: left;
+    margin-right: 30px;
+}
+.members3{
+    width: 45%;
+    margin: 100px auto 100px auto;
+    text-align: center; 
+}
+.mem4-img{
+    width: 40%;
+    float: right;
+    margin-left: 45px;
+}
+.members4{
+    width: 40%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.mem5-img{
+    width: 40%;
+    float: left;
+    margin-right: 30px;
+}
+.members5{
+    width: 40%;
+    margin: 100px auto 100px auto;
+    text-align: center; 
+}
+.mem6-img{
+    width: 40%;
+    float: right;
+    margin-left: 35px;
+}
